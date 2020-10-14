@@ -1,5 +1,5 @@
-def display_rainbow(colors)
-  puts "R: #{color[0]}, 0: #{color[1]}, Y: #{color[2]}, G: #{color[3]}, B: #{color[4]}, I: #{color[5]}, V: #{color[6]}"
+def display_rainbow(letters)
+  puts "R: #{letters[0]}, 0: #{letters[1]}, Y: #{letters[2]}, G: #{letters[3]}, B: #{letters[4]}, I: #{letters[5]}, V: #{letters[6]}"
 end
 
 

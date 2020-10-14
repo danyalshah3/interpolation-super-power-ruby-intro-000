@@ -1,7 +1,7 @@
 def display_rainbow(letters)
-  puts "R: #{letters[0]}, 0: #{letters[1]}, Y: #{letters[2]}, G: #{letters[3]}, B: #{letters[4]}, I: #{letters[5]}, V: #{letters[6]}"
+  puts "R: #{letters[4]}, 0: #{letters[3]}, Y: #{letters[5]}, G: #{letters[1]}, B: #{letters[0]}, I: #{letters[6]}, V: #{letters[2]}"
 end
 
 
 
-display_rainbow(['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'])
+display_rainbow(colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'])
